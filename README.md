@@ -26,7 +26,7 @@ education:
   [
     "Currently persuing B tech(3rd year) in Meghnad Saha Institute of Technology Kolkata",
   ]
-company: Soulber
+
 
 fields_of_interests:
   [
@@ -37,7 +37,7 @@ fields_of_interests:
 technical_background:
   [
     "Full Stack Developer",
-  ]
+    ]
   
 
 hobbies: ["Dancing", "Cinema", "Music", "Art"]
